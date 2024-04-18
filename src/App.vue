@@ -1,8 +1,4 @@
-<script setup>
-// import { RouterLink, RouterView } from 'vue-router'
-// import HelloWorld from './components/HelloWorld.vue'
-// import Main from './pages/Main.vue'
-</script>
+
 
 <template>
   <Suspense>
